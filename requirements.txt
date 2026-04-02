@@ -1,0 +1,9 @@
+# Core app dependencies — Streamlit Cloud deployment
+streamlit==1.56.0
+pandas==3.0.1
+numpy==2.4.3
+scikit-learn==1.7.2
+plotly==6.6.0
+matplotlib==3.10.8
+seaborn==0.13.2
+narwhals==2.18.1
