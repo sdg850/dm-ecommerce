@@ -1,5 +1,8 @@
 # E-Commerce Analytics Dashboard
 
+## Streamlit app
+- https://dm-ecommerce.streamlit.app/
+
 Sistema de Machine Learning para segmentación de clientes, predicción de churn y estimación de Lifetime Value (LTV), con dashboard interactivo en Streamlit.
 
 ---
